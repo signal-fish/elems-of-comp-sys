@@ -14,7 +14,7 @@ in == 0 > ? out = 1 : out = 0
 ```
 
 ### Boolean Expression
-$Not\; a  = Not(a\; And\; a) = a \;Nand\; a$
+`Not a  = Not(a And a) = a Nand a`
 
 ### Truth Table
 
@@ -24,7 +24,7 @@ $Not\; a  = Not(a\; And\; a) = a \;Nand\; a$
 |1|0|
 
 ### Logic.ly Diagram
-![Not Gate](/elems-of-comp-sys/project1/Not/Not.png "Not Gate")
+![Not Gate](/project1/Not/Not.png "Not Gate")
 
 ### HDL Code
 ```
